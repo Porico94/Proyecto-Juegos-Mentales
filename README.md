@@ -51,7 +51,7 @@ El proyecto nació como ejercicio fundamental de programación: aprender a **est
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/brain-games.git
+git clone https://github.com/Porico94//Proyecto-Juegos-Mentales
 
 # 2. Entra al directorio
 cd brain-games
